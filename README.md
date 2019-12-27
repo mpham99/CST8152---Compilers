@@ -1,5 +1,6 @@
 # CST8152---Compilers
-Course Description
+
+# Course Description
 
 Introduction to the basic principles, techniques, and tools used to translate text expressed in one language to
 equivalent text expressed in another language. The concepts discussed and the programming concepts studied in
@@ -7,7 +8,7 @@ previous courses are applied to develop and program the front-end of a simple co
 as implementation language. The ideas and techniques discussed could be applied to general software design and
 to parsing of structured files, such as HTML, XML, register and configuration files.
 
-Assignments Description
+# Assignments Description
 
 Written in C, the programs implement the front-end of a compilers for a faux programming language called "PLATYPUS".
 During this process, it requires creating a finite state machine with a transition table as a part of the lexical analyzer,
